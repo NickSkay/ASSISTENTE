@@ -1,0 +1,40 @@
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\bin\Debug\ASSISTENTE_TCC_01.exe.config
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\bin\Debug\ASSISTENTE_TCC_01.exe
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\bin\Debug\ASSISTENTE_TCC_01.pdb
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\bin\Debug\Microsoft.Speech.dll
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.csproj.AssemblyReference.cache
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.Form1.resources
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.Properties.Resources.resources
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.csproj.GenerateResource.cache
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.csproj.CoreCompileInputs.cache
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.csproj.CopyComplete
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.exe
+C:\Users\nicos\source\repos\ASSISTENTE_TCC_01\obj\Debug\ASSISTENTE_TCC_01.pdb
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\bin\Debug\ASSISTENTE_TCC_01.exe.config
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\bin\Debug\ASSISTENTE_TCC_01.exe
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\bin\Debug\ASSISTENTE_TCC_01.pdb
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\bin\Debug\Microsoft.Speech.dll
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.Form1.resources
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.Properties.Resources.resources
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.CopyComplete
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.exe
+C:\Users\User\source\repos\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.pdb
+D:\ASSISTENTE_TCC_01 - Copia\bin\Debug\ASSISTENTE_TCC_01.exe.config
+D:\ASSISTENTE_TCC_01 - Copia\bin\Debug\ASSISTENTE_TCC_01.exe
+D:\ASSISTENTE_TCC_01 - Copia\bin\Debug\ASSISTENTE_TCC_01.pdb
+D:\ASSISTENTE_TCC_01 - Copia\bin\Debug\Newtonsoft.Json.dll
+D:\ASSISTENTE_TCC_01 - Copia\bin\Debug\Newtonsoft.Json.xml
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csprojAssemblyReference.cache
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.Form1.resources
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.Properties.Resources.resources
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.GenerateResource.cache
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.CoreCompileInputs.cache
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.csproj.CopyComplete
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.exe
+D:\ASSISTENTE_TCC_01 - Copia\obj\Debug\ASSISTENTE_TCC_01.pdb
